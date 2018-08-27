@@ -1,0 +1,16 @@
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\bin\Debug\calculator2.exe.config
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\bin\Debug\calculator2.exe
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\bin\Debug\calculator2.pdb
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\obj\Debug\calculator2.csprojResolveAssemblyReference.cache
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\obj\Debug\calculator2.Form1.resources
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\obj\Debug\calculator2.csproj.GenerateResource.Cache
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\obj\Debug\calculator2.exe
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\obj\Debug\calculator2.pdb
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\bin\Debug\calculatordll2.dll
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\bin\Debug\calculatordll2.pdb
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\bin\Debug\scientificdll.dll
+C:\Users\Sayla\Desktop\software class\calculator2\calculator2\bin\Debug\scientificdll.pdb
+C:\Users\Sayla\Desktop\software class\calculaor windows\calculator2\calculator2\bin\Debug\calculator2.exe.config
+C:\Users\Sayla\Desktop\software class\calculaor windows\calculator2\calculator2\obj\Debug\calculator2.exe
+C:\Users\Sayla\Desktop\software class\calculaor windows\calculator2\calculator2\obj\Debug\calculator2.pdb

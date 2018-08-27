@@ -1,0 +1,9 @@
+C:\Users\Sayla\Desktop\software class\calweb\calweb\obj\Debug\calweb.csprojResolveAssemblyReference.cache
+C:\Users\Sayla\Desktop\software class\calweb\calweb\bin\calweb.dll
+C:\Users\Sayla\Desktop\software class\calweb\calweb\bin\calweb.pdb
+C:\Users\Sayla\Desktop\software class\calweb\calweb\obj\Debug\calweb.dll
+C:\Users\Sayla\Desktop\software class\calweb\calweb\obj\Debug\calweb.pdb
+C:\Users\Sayla\Desktop\software class\calweb\calweb\bin\calculatordll2.dll
+C:\Users\Sayla\Desktop\software class\calweb\calweb\bin\scientificdll.dll
+C:\Users\Sayla\Desktop\software class\calweb\calweb\bin\calculatordll2.pdb
+C:\Users\Sayla\Desktop\software class\calweb\calweb\bin\scientificdll.pdb

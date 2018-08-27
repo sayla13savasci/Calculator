@@ -1,0 +1,4 @@
+C:\Users\Sayla\Desktop\software class\scientificdll\scientificdll\bin\Debug\scientificdll.dll
+C:\Users\Sayla\Desktop\software class\scientificdll\scientificdll\bin\Debug\scientificdll.pdb
+C:\Users\Sayla\Desktop\software class\scientificdll\scientificdll\obj\Debug\scientificdll.dll
+C:\Users\Sayla\Desktop\software class\scientificdll\scientificdll\obj\Debug\scientificdll.pdb

@@ -1,0 +1,5 @@
+C:\Users\Sayla\Desktop\software class\calculatordll2\calculatordll2\bin\Debug\calculatordll2.dll
+C:\Users\Sayla\Desktop\software class\calculatordll2\calculatordll2\bin\Debug\calculatordll2.pdb
+C:\Users\Sayla\Desktop\software class\calculatordll2\calculatordll2\obj\Debug\calculatordll2.dll
+C:\Users\Sayla\Desktop\software class\calculatordll2\calculatordll2\obj\Debug\calculatordll2.pdb
+C:\Users\Sayla\Desktop\software class\calculatordll2\calculatordll2\obj\Debug\calculatordll2.csprojResolveAssemblyReference.cache
